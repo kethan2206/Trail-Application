@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857255882993",
+    "project_id": "understandingdatabase-e6a7b",
+    "storage_bucket": "understandingdatabase-e6a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857255882993:android:57d22a7ff933693e593950",
+        "android_client_info": {
+          "package_name": "com.example.testing2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857255882993-ejqc0htoefh5f9ld00j29hnnat0v0fll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9qsRwXHm1iXbdc5XaBAWf73dV3Pwq3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857255882993-ejqc0htoefh5f9ld00j29hnnat0v0fll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
